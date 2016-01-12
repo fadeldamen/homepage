@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Sobre Vitor Lobo
----
+title: Sobre Fadel Damen
+
 
 Faminto por conhecimento e curioso por natureza, como bem disse o escritor Eça de Queiroz, "A curiosidade, instinto de complexidade infinita, leva por um lado a escutar atrás das portas e por outro lado a descobrir a América". Sou aficionado por novas descobertas, em descobrir como funciona cada mecanismo, sistema, programa, e todo este ecossistema de base tecnológica e artística.
 
@@ -28,3 +28,4 @@ IRC: lobocode
 Twitter: <a href="https://twitter.com/LobocodeLobo">@LobocodeLobo</a>
 </pre>
 
+---
